@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/183525629?s=96&v=4"/>
 <h1 align="center">A Passionate Front End Developer</h1>
 
 
