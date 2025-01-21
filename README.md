@@ -1,4 +1,7 @@
-<img src="https://avatars.githubusercontent.com/u/183525629?s=96&v=4"/>
+<div align=" center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JzeDYxZHRwMW9yYmRrYzJnbzc1a3NnZjJhNWM0ZDRoeDJwMncwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="GIF">
+</div>
+
 <h1 align="center">A Passionate Front End Developer</h1>
 
 
